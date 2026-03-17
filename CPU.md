@@ -2,3 +2,6 @@
 
 A CPU (==Central Processing Unit==) is the primary "brain" of a computer or electronic device, responsible for interpreting and executing instructions from software. It performs essential calculations, manages data flow, and runs applications in devices ranging from smartphones to servers. Key tasks include managing operating systems, processing user input, and coordinating components like memory and peripherals
 [[CPU Leading Arichitecture]]
+
+[[CPU architecture]]
+
