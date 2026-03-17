@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testdfdsfds.md",
+                "file": "CPU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testdfdsfds"
+              "title": "CPU"
             }
           }
         ]
@@ -196,6 +196,6 @@
   },
   "active": "db8a70a9dc4ace22",
   "lastOpenFiles": [
-    "testdfdsfds.md"
+    "CPU.md"
   ]
 }
