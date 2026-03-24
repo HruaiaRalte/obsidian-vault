@@ -4,7 +4,7 @@ Flip-flops sound complicated, but they’re actually a simple idea 👇
 
 # 🧠 What is a flip-flop?
 
-A **flip-flop** is a tiny electronic circuit that can **remember one value**:
+A **flip-flop** is a tiny [[electronic circuit]] that can **remember one value**:
 
 👉 either **0 or 1**
 

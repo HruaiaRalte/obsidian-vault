@@ -50,6 +50,16 @@
             }
           },
           {
+            "id": "36f84b8e21023423",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "fb7ef436aa47ef24",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,13 +205,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flip-flops.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Flip-flops"
+              "title": "Outline"
             }
           },
           {
@@ -249,8 +258,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6719029722d01ea3",
+  "active": "36f84b8e21023423",
   "lastOpenFiles": [
+    "electronic circuit.md",
     "Flip-flops.md",
     "Register/REGISTER.md",
     "CPU-registers.png",
@@ -285,7 +295,6 @@
     "question.md",
     "protocols.md",
     "Performance.md",
-    "number_system.md",
     "Register",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png"
