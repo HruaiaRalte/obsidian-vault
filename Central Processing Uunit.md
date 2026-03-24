@@ -7,3 +7,8 @@ Computer architecture is ==the conceptual design and fundamental operational st
 [[CPU architecture]]
 
 
+
+	
+[[rigesters]]
+A register is ==the fastest type of computer memory located directly inside the CPU, designed to temporarily hold data, instructions, or memory addresses that the processor is currently working on==. These small, high-speed storage locations facilitate immediate data access for calculations and instructions, acting as the CPU's immediate workspace.
+

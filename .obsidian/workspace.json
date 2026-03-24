@@ -11,14 +11,10 @@
             "id": "db8a70a9dc4ace22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -27,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU.md",
+                "file": "Central Processing Uunit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "Central Processing Uunit"
             }
           }
         ]
@@ -210,8 +206,8 @@
   },
   "active": "db8a70a9dc4ace22",
   "lastOpenFiles": [
+    "Central Processing Uunit.md",
     "Register/rigesters.md",
-    "CPU.md",
     "Architecture/CPU architecture.md",
     "Untitled 2.md",
     "Super Computers.md",
