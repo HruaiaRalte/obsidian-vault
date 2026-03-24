@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db8a70a9dc4ace22",
+  "active": "311d7e120d4cfdde",
   "lastOpenFiles": [
     "Central Processing Unit.md",
     "Control unit.md",
