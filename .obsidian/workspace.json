@@ -11,10 +11,17 @@
             "id": "db8a70a9dc4ace22",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -154.2895202636719,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           },
           {
@@ -221,6 +228,8 @@
   },
   "active": "db8a70a9dc4ace22",
   "lastOpenFiles": [
+    "2026-03-24.md",
+    "Untitled 1.canvas",
     "Central Processing Unit.md",
     "Control unit.md",
     "Untitled.canvas",
@@ -247,8 +256,6 @@
     "networking.md",
     "ms-word-keys.md",
     "MEMORY SIZE UNITS.md",
-    "malware-all-type of virus.md",
-    "internet.md",
     "Register",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png",
