@@ -7,7 +7,7 @@ instructions
 The correct answer is:
 
 **(d) decode instructions**
-
+s
 ### Explanation:
 
 The **Control Unit (CU)** in the CPU is responsible for:
