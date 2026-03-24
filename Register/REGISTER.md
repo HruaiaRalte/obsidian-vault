@@ -1,4 +1,4 @@
-[Register Tree](Register%20Tree.md)
+[Register all topic](Register%20all%20topic.md)
 
 In computer science, a register is an important component of digital devices that stores data and instructions for quick processing. It serves as a temporary storage area where information can be accessed and manipulated quickly in order to carry out complex tasks. Registers are the most basic type of memory in computers and they play a critical role in helping machines process data efficiently. In this blog, we’ll explore what registers are, how they work, and why they are so important for modern-day computing.
 

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Register/Register Tree.md",
+                "file": "register tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Register Tree"
+              "title": "register tree"
             }
           },
           {
@@ -279,8 +279,9 @@
   },
   "active": "7e12cc427bde7adb",
   "lastOpenFiles": [
+    "Register/Register all topic.md",
+    "register tree.md",
     "Register/Binary System.md",
-    "Register/Register Tree.md",
     "Bits, Bytes, Words.md",
     "Register/REGISTER.md",
     "electronic circuit.md",
@@ -313,7 +314,6 @@
     "Storages devices.md",
     "storage devices.md",
     "security.md",
-    "SDLC.md",
     "Register",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png"
