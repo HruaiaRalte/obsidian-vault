@@ -67,10 +67,14 @@
             "id": "7e12cc427bde7adb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Logic Gates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logic Gates"
             }
           },
           {
@@ -276,8 +280,9 @@
   "active": "7e12cc427bde7adb",
   "lastOpenFiles": [
     "Register/Register all topic.md",
-    "register tree.md",
+    "Logic Gates.md",
     "Register/Binary System.md",
+    "register tree.md",
     "Bits, Bytes, Words.md",
     "Register/REGISTER.md",
     "electronic circuit.md",
@@ -309,7 +314,6 @@
     "Super Computers.md",
     "Storages devices.md",
     "storage devices.md",
-    "security.md",
     "Register",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png"
