@@ -88,11 +88,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 429.5
   },
   "right": {
     "id": "120a7e8ed262c772",
@@ -208,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db8a70a9dc4ace22",
+  "active": "f03ef0091f915c96",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Super Computers.md",
