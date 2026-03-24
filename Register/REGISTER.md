@@ -1,8 +1,8 @@
-
+[Register Tree](Register%20Tree.md)
 
 In computer science, a register is an important component of digital devices that stores data and instructions for quick processing. It serves as a temporary storage area where information can be accessed and manipulated quickly in order to carry out complex tasks. Registers are the most basic type of memory in computers and they play a critical role in helping machines process data efficiently. In this blog, we’ll explore what registers are, how they work, and why they are so important for modern-day computing.
 
-A register is composed of multiple flip-flops, which are electronic circuits capable of storing a single bit of information, which is represented through [binary data](https://www.totalphase.com/blog/2023/04/what-is-binary-code-and-how-does-it-work/) – either a 0 or a 1. By combining multiple flip-flops, registers can store larger binary values, such as bytes or words.
+		A register is composed of multiple flip-flops, which are electronic circuits capable of storing a ssingle bit of information, which is represented through [binary data](https://www.totalphase.com/blog/2023/04/what-is-binary-code-and-how-does-it-work/) – either a 0 or a 1. By combining multiple flip-flops, registers can store larger binary values, such as bytes or words.
 
 Registers also contain control logic circuitry, which allows it to coordinate the flow of data and instructions within the CPU. This can include operations such as decoding control signals, performing data manipulation like data loading, storing, or arithmetic operations, and using mulitplexers to route data to a specific location within the register.
 

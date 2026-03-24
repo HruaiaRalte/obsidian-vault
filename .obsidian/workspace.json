@@ -53,10 +53,14 @@
             "id": "36f84b8e21023423",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Register/REGISTER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REGISTER"
             }
           },
           {
@@ -205,12 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Register/REGISTER.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of REGISTER"
             }
           },
           {
@@ -260,6 +265,7 @@
   },
   "active": "36f84b8e21023423",
   "lastOpenFiles": [
+    "Register/Register Tree.md",
     "electronic circuit.md",
     "Flip-flops.md",
     "Register/REGISTER.md",
@@ -294,7 +300,6 @@
     "SDLC.md",
     "question.md",
     "protocols.md",
-    "Performance.md",
     "Register",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png"
