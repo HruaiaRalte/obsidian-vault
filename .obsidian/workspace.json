@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Gates.md",
+                "file": "Register/Register all topic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logic Gates"
+              "title": "Register all topic"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "central pro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +141,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,14 +278,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e12cc427bde7adb",
+  "active": "f03ef0091f915c96",
   "lastOpenFiles": [
-    "Register/Register all topic.md",
-    "Logic Gates.md",
+    "Register/REGISTER.md",
     "Register/Binary System.md",
+    "Logic Gates.md",
+    "Register/Register all topic.md",
     "register tree.md",
     "Bits, Bytes, Words.md",
-    "Register/REGISTER.md",
     "electronic circuit.md",
     "Flip-flops.md",
     "CPU-registers.png",
