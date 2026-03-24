@@ -7,22 +7,7 @@ Abacus)** 👇
 
 ### 1. Abacus
 ![[images (1).jpeg]]
-hello
 
-![](Pictures/10000000000001D100000292EE1ED67D97807428.jpg "image"){width="4.8437in"
-height="6.8543in"}
-
-![](Pictures/100000000000080000000555D8BB4DFA19B8ABF3.jpg "image"){width="21.3335in"
-height="14.2189in"}
-
-![](Pictures/10000000000001C200000144DAF47F973830AB8F.jpg "image"){width="4.6874in"
-height="3.3752in"}
-
-![](Pictures/10000000000004F6000005DC26DDF46B83CFC47C.jpg "image"){width="13.2291in"
-height="15.6252in"}
-
-![](Pictures/100000000000055500000800D5A443209AAC7774.jpg "image"){width="14.2189in"
-height="21.3335in"}
 
 - First calculating device
 - Uses beads to perform arithmetic
