@@ -1,1 +1,1 @@
-![[http-upload-wikimedia-org-wikipedia-commons-thum 1.png]]
+			![[http-upload-wikimedia-org-wikipedia-commons-thum 1.png]]

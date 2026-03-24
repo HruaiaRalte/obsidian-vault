@@ -35,8 +35,7 @@
               "title": "CPU"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,15 +208,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6574fdb6aa05da08",
+  "active": "db8a70a9dc4ace22",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Super Computers.md",
+    "Storages devices.md",
+    "storage devices.md",
+    "security.md",
+    "SDLC.md",
+    "rigesters.md",
+    "RAM.md",
+    "question.md",
+    "protocols.md",
+    "Performance.md",
+    "number_system.md",
+    "networking.md",
+    "ms-word-keys.md",
+    "MEMORY SIZE UNITS.md",
+    "malware-all-type of virus.md",
+    "internet.md",
+    "instruction.md",
+    "Information technology and society.md",
+    "Information technology act 200.md",
+    "images_video.md",
+    "how program execute.md",
+    "gk computer.md",
+    "fundamental.md",
+    "fragmentation.md",
+    "father of.md",
     "Register",
-    "Architecture/CPU architecture.md",
-    "Architecture/CPU Leading Arichitecture.md",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png",
-    "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png",
-    "CPU.md",
-    "README.md"
+    "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png"
   ]
 }
