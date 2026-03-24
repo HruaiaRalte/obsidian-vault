@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "RIGES",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "search": "REGISTER",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3367782816172395,
+  "scale": 2.0306782818269165,
   "close": false
 }
