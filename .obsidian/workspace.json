@@ -11,17 +11,10 @@
             "id": "db8a70a9dc4ace22",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -154.2895202636719,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -228,8 +221,8 @@
   },
   "active": "db8a70a9dc4ace22",
   "lastOpenFiles": [
-    "2026-03-24.md",
     "Untitled 1.canvas",
+    "2026-03-24.md",
     "Central Processing Unit.md",
     "Control unit.md",
     "Untitled.canvas",
