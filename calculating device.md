@@ -43,7 +43,7 @@ height="20.1772in"}
 height="11.3335in"}
 
 ![](Pictures/1000000000000A2000000790729BB83FE45B4F93.jpg "image"){width="27in"
-height="20.1665in"}
+	height="20.1665in"}
 
 ![](Pictures/10000000000004C8000005A2644F3F86CF42E99D.jpg "image"){width="12.75in"
 height="15.0209in"}
