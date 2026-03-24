@@ -7,8 +7,7 @@ Abacus)** 👇
 
 ### 1. Abacus
 ![[images (1).jpeg]]
-![](Pictures/1000000000000800000005573B8AD740B9EC4D18.jpg "image"){width="21.3335in"
-height="14.2398in"}
+hello
 
 ![](Pictures/10000000000001D100000292EE1ED67D97807428.jpg "image"){width="4.8437in"
 height="6.8543in"}
