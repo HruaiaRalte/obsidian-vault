@@ -207,11 +207,27 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
+      },
+      {
+        "id": "4f1a6284dddd273c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b622132f036d41d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dae95dee083b5f00",
+  "active": "95a88a710a541905",
   "lastOpenFiles": [
     "Register/REGISTER.md",
     "Untitled 2.canvas",
