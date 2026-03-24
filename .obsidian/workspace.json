@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,8 @@
   },
   "active": "db8a70a9dc4ace22",
   "lastOpenFiles": [
+    "how program execute.md",
+    "calculating device.md",
     "Central Processing Uunit.md",
     "Register/rigesters.md",
     "Architecture/CPU architecture.md",
@@ -229,9 +232,7 @@
     "Information technology and society.md",
     "Information technology act 200.md",
     "images_video.md",
-    "how program execute.md",
     "gk computer.md",
-    "fundamental.md",
     "Register",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png",
