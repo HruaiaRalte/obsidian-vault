@@ -102,20 +102,104 @@ Registers
 ```
 
 ---
+# Registers
 
-# 🧠 How to use this (important)
+- [[Fundamentals]]
+  - [[Digital Basics]]
+    - [[Binary System]]
+    - [[Bits, Bytes, Words]]
+    - [[Logic Gates]]
+      - [[AND Gate]]
+      - [[OR Gate]]
+      - [[NOT Gate]]
+      - [[NAND Gate]]
+      - [[NOR Gate]]
+      - [[XOR Gate]]
 
-In Obsidian:
+  - [[Electronic Basics]]
+    - [[Electronic Circuits]]
+    - [[Transistors]]
+    - [[Combinational Circuits]]
+    - [[Sequential Circuits]]
 
-- Make each node a note → `[[Flip-Flops]]`, `[[Program Counter]]`
-    
-- This becomes a **knowledge graph automatically**
-    
+  - [[Flip-Flops]]
+    - [[SR Flip-Flop]]
+    - [[D Flip-Flop]]
+    - [[JK Flip-Flop]]
+    - [[T Flip-Flop]]
+    - [[Edge-triggered Flip-Flop]]
+    - [[Level-triggered Flip-Flop]]
+    - [[Setup Time]]
+    - [[Hold Time]]
 
----
+- [[Registers Core]]
+  - [[Register Definition]]
+  - [[Register vs RAM]]
 
-If you want next level, I can:
+  - [[Register Structure]]
+    - [[Flip-Flop Array]]
+    - [[Bit Width]]
+    - [[Clock Signal]]
+    - [[Enable Signal]]
+    - [[Load Control]]
 
-- convert this into a **clickable Obsidian vault structure**
-    
-- or trim it into a **perfect study roadmap (what to learn first → last)**
+  - [[Types of Registers]]
+    - [[General Purpose Registers]]
+    - [[Special Purpose Registers]]
+      - [[Program Counter]]
+      - [[Instruction Register]]
+      - [[Memory Address Register]]
+      - [[Memory Data Register]]
+      - [[Accumulator]]
+      - [[Stack Pointer]]
+      - [[Index Register]]
+      - [[Base Register]]
+
+    - [[Status Register]]
+      - [[Zero Flag]]
+      - [[Carry Flag]]
+      - [[Sign Flag]]
+      - [[Overflow Flag]]
+
+- [[Register Operations]]
+  - [[Load Operation]]
+  - [[Store Operation]]
+  - [[Clear Operation]]
+  - [[Shift Operations]]
+    - [[Logical Shift Left]]
+    - [[Logical Shift Right]]
+    - [[Arithmetic Shift]]
+    - [[Rotate Operation]]
+  - [[Increment]]
+  - [[Decrement]]
+
+- [[Register Transfer]]
+  - [[Register Transfer Language]]
+  - [[Data Transfer Between Registers]]
+  - [[Bus System]]
+    - [[Data Bus]]
+    - [[Address Bus]]
+    - [[Control Bus]]
+
+- [[CPU Register Organization]]
+  - [[Register File]]
+  - [[Register Banks]]
+  - [[Datapath]]
+  - [[Control Unit]]
+
+- [[Performance]]
+  - [[Register Speed]]
+  - [[Clock Cycles]]
+  - [[Pipelining]]
+  - [[Register Renaming]]
+
+- [[Architecture Specific]]
+  - [[x86 Registers]]
+  - [[ARM Registers]]
+  - [[RISC vs CISC]]
+
+- [[Applications]]
+  - [[CPU Operations]]
+  - [[Embedded Systems]]
+  - [[Digital Design]]
+  - [[Assembly Programming]]
