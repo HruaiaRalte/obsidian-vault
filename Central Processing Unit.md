@@ -12,3 +12,6 @@ Computer architecture is ==the conceptual design and fundamental operational st
 [[REGISTER]]
 A register is ==the fastest type of computer memory located directly inside the CPU, designed to temporarily hold data, instructions, or memory addresses that the processor is currently working on==. These small, high-speed storage locations facilitate immediate data access for calculations and instructions, acting as the CPU's immediate workspace.
 
+[[control unit]]
+The control unit (CU) is ==a core component of a computer’s central processing unit (CPU) that acts as the processor's "brain," directing the flow of data and instructions==. It fetches instructions from memory, decodes them, and generates control signals to coordinate the ALU, registers, and input/output
+
