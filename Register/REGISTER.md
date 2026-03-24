@@ -1,7 +1,5 @@
 RigestersCMOS stands for **Complementary Metal-Oxide-Semiconductor**. It
-is \
-\
-\
+
 380. Register is a group of \_\_\_\_\_\_\_\_\_
 
 \(a\) OR gates (b) OR & AND gate (c) Flip-flops (d) None of these\

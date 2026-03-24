@@ -11,12 +11,14 @@
             "id": "db8a70a9dc4ace22",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png"
+                "file": "Register/REGISTER.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "http-upload-wikimedia-org-wikipedia-commons-thum 1"
+              "icon": "lucide-file",
+              "title": "REGISTER"
             }
           },
           {
@@ -25,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Processing Unit.md",
+                "file": "RAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Central Processing Unit"
+              "title": "RAM"
             }
           },
           {
@@ -47,7 +49,8 @@
               "title": "Control unit"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,12 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db8a70a9dc4ace22",
+  "active": "6574fdb6aa05da08",
   "lastOpenFiles": [
+    "Central Processing Unit.md",
+    "Register/REGISTER.md",
+    "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png",
     "Architecture/CPU Leading Arichitecture.md",
     "Architecture/CPU architecture.md",
     "Pictures/1000000000000600000004000F3D4584AE9A4B62.png.md",
-    "Central Processing Unit.md",
     "calculating device.md",
     "Top-AI-Apps-Chatbots-That-Everybody-Is-Using-in-2025.jpg",
     "Control unit.md",
@@ -233,7 +238,6 @@
     "Untitled 1.canvas",
     "2026-03-24.md",
     "Untitled.canvas",
-    "Register/REGISTER.md",
     "Bus.md",
     "fragmentation.md",
     "booting_process.md",
@@ -252,10 +256,8 @@
     "number_system.md",
     "networking.md",
     "ms-word-keys.md",
-    "MEMORY SIZE UNITS.md",
     "Register",
     "Architecture",
-    "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png",
-    "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png"
+    "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png"
   ]
 }
