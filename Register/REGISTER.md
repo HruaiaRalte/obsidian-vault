@@ -14,7 +14,7 @@ A register is composed of multiple flip-flops, which are electronic circuits cap
 
 Registers also contain control logic circuitry, which allows it to coordinate the flow of data and instructions within the CPU. This can include operations such as decoding control signals, performing data manipulation like data loading, storing, or arithmetic operations, and using mulitplexers to route data to a specific location within the register.
 
-Together, flip-flops and control logic work in partnership within registers. Flip-flops provide the storage capacity, while control logic facilitates the coordination of data transfer, manipulation, and synchronization with other components of the CPU. This enables registers to store and process data efficiently during the execution of instructions.
+Together, flip-flops and control logic work in partnership within registers. [[Flip-flops]] provide the storage capacity, while control logic facilitates the coordination of data transfer, manipulation, and synchronization with other components of the CPU. This enables registers to store and process data efficiently during the execution of instructions.
 
 ### Sizes of CPU Registers
 
