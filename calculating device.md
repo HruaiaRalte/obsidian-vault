@@ -6,7 +6,7 @@ Abacus)** 👇
 ## 🧮 Early Calculating & Computing Devices
 
 ### 1. Abacus
-
+![[images (1).jpeg]]
 ![](Pictures/1000000000000800000005573B8AD740B9EC4D18.jpg "image"){width="21.3335in"
 height="14.2398in"}
 
