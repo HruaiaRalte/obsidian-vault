@@ -8,7 +8,8 @@ Abacus)** 👇
 ### 1. Abacus
 
 ![](Top-AI-Apps-Chatbots-That-Everybody-Is-Using-in-2025.jpg)
-hee
+nigga
+dfd
 - First calculating device
 - Uses beads to perform arithmetic
 
