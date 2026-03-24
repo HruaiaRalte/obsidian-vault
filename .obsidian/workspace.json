@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AND Gate.md",
+                "file": "Register/REGISTER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AND Gate"
+              "title": "REGISTER"
             }
           },
           {
@@ -279,8 +279,8 @@
   },
   "active": "7e12cc427bde7adb",
   "lastOpenFiles": [
-    "Register/Register all topic.md",
     "AND Gate.md",
+    "Register/Register all topic.md",
     "Register/Binary System.md",
     "Register/REGISTER.md",
     "2026-03-24.md",
