@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "REGISTER",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9988107593467112,
-  "close": false
+  "scale": 0.15914981754335356,
+  "close": true
 }
