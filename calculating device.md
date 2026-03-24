@@ -6,9 +6,9 @@ Abacus)** 👇
 ## 🧮 Early Calculating & Computing Devices
 
 ### 1. Abacus
-![[images (1).jpeg]]
 
-
+![](Top-AI-Apps-Chatbots-That-Everybody-Is-Using-in-2025.jpg)
+hee
 - First calculating device
 - Uses beads to perform arithmetic
 
