@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Register/Register Tree.md",
+                "file": "Bits, Bytes, Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Register Tree"
+              "title": "Bits, Bytes, Words"
             }
           },
           {
@@ -279,9 +279,10 @@
   },
   "active": "7e12cc427bde7adb",
   "lastOpenFiles": [
+    "Register/Register Tree.md",
+    "Bits, Bytes, Words.md",
     "Register/REGISTER.md",
     "Register/Binary System.md",
-    "Register/Register Tree.md",
     "electronic circuit.md",
     "Flip-flops.md",
     "CPU-registers.png",
@@ -313,7 +314,6 @@
     "storage devices.md",
     "security.md",
     "SDLC.md",
-    "question.md",
     "Register",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png"
