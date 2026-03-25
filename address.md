@@ -1,3 +1,5 @@
+
+
 392\. In operating system, each process has its own
 
 \(a\) address space (b) open files (c) pending alarms (d) all of
