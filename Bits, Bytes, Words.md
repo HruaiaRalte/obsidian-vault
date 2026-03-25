@@ -12,7 +12,7 @@ These are organized into units called **bits, bytes, and words**.
   - `0` (off)
   - `1` (on)
 
-👉 A single flip-flop stores **1 bit**
+👉 A single [[flip-flop]] stores **1 bit**
 
 ---
 

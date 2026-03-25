@@ -1,0 +1,2 @@
+  
+Flip-flops and latches are **used as data storage elements to store a single bit (binary digit) of data**; one of its two states represents a one and the other represents a zero. Such data storage can be used for storage of state, and such a circuit is described as sequential logic in electronics.![](flipflop.jpeg)

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Gates.md",
+                "file": "flip-flop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logic Gates"
+              "title": "flip-flop"
             }
           },
           {
@@ -279,16 +279,18 @@
   },
   "active": "7e12cc427bde7adb",
   "lastOpenFiles": [
+    "flipflop.jpeg",
+    "Bits, Bytes, Words.md",
+    "flip-flop.md",
+    "AND Gate.md",
     "Register/Register all topic.md",
+    "Register/Binary System.md",
+    "Logic Gates.md",
     "Untitled 4.canvas",
     "Register/REGISTER.md",
-    "Register/Binary System.md",
-    "AND Gate.md",
     "2026-03-24.md",
     "Flip-flops.md",
-    "Logic Gates.md",
     "register tree.md",
-    "Bits, Bytes, Words.md",
     "electronic circuit.md",
     "CPU-registers.png",
     "Information technology act 200.md",
@@ -313,7 +315,6 @@
     "Pictures",
     "how program execute.md",
     "Untitled 2.md",
-    "Super Computers.md",
     "Register",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png"
