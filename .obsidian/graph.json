@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "address",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11642345201314798,
-  "close": true
+  "scale": 0.6461221343028017,
+  "close": false
 }
