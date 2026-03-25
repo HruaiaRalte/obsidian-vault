@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address Definition.md",
+                "file": "Types of Address.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Address Definition"
+              "title": "Types of Address"
             }
           },
           {
@@ -266,7 +266,9 @@
   "active": "6719029722d01ea3",
   "lastOpenFiles": [
     "Address/Address.md",
-    "Address Definition.md",
+    "Types of Address.md",
+    "Address/Address Definition.md",
+    "AND Gate.md",
     "Address",
     "Flip-flops.md",
     "Pictures/1000000000000600000004000F3D4584AE9A4B62.png.md",
@@ -284,7 +286,6 @@
     "Bits, Bytes, Words.md",
     "Central Processing Unit.md",
     "flipflop.jpeg",
-    "AND Gate.md",
     "Register/Binary System.md",
     "Untitled 4.canvas",
     "register tree.md",
@@ -301,7 +302,6 @@
     "images (1).jpeg",
     "Bus.md",
     "fragmentation.md",
-    "booting_process.md",
     "Pictures",
     "Register",
     "Architecture",

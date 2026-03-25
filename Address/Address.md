@@ -1,7 +1,7 @@
 
 - [[Address]]
   - [[Address Definition]]
-  - [[Types of Address]]
+	  - [[Types of Address]]
     - [[Logical Address]]
     - [[Physical Address]]
     - [[Virtual Address]]
