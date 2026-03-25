@@ -199,21 +199,466 @@ Here are **100 MCQs (LDC/UDC level) on “Address” in Operating Systems**:
 
 ---
 
-31–100. (Continuing similarly for full coverage)
+Here are the remaining **MCQs (31–100)** on **Address**:
 
 ---
 
-### ⚡ Want the rest?
+### 📘 Address MCQs (31–100)
 
-I can:
+31. Address translation helps in:  
+    (a) Data entry  
+    (b) Memory access  
+    (c) Disk formatting  
+    (d) Compilation
+    
+32. Logical address is generated during:  
+    (a) Execution  
+    (b) Compilation  
+    (c) Storage  
+    (d) Backup
+    
+33. Physical address is used by:  
+    (a) CPU  
+    (b) RAM  
+    (c) User  
+    (d) Compiler
+    
+34. Address binding at execution time allows:  
+    (a) Fixed memory  
+    (b) Dynamic relocation  
+    (c) No relocation  
+    (d) Slow execution
+    
+35. Which is fastest binding?  
+    (a) Compile-time  
+    (b) Load-time  
+    (c) Execution-time  
+    (d) None
+    
+36. Address bus connects:  
+    (a) CPU & memory  
+    (b) CPU & disk  
+    (c) RAM & disk  
+    (d) Monitor & CPU
+    
+37. More address lines mean:  
+    (a) Less memory  
+    (b) More memory  
+    (c) No effect  
+    (d) Slow speed
+    
+38. Invalid address results in:  
+    (a) Crash  
+    (b) Speed  
+    (c) Storage  
+    (d) Output
+    
+39. Protection fault is related to:  
+    (a) Disk  
+    (b) Memory  
+    (c) CPU  
+    (d) Input
+    
+40. Paging avoids:  
+    (a) Internal fragmentation  
+    (b) External fragmentation  
+    (c) Both  
+    (d) None
+    
 
-- Continue all **100 fully (31–100)**
+---
+
+41. Segmentation causes:  
+    (a) No fragmentation  
+    (b) External fragmentation  
+    (c) Internal fragmentation  
+    (d) None
     
-- Add **answers + explanations**
+42. Contiguous allocation suffers from:  
+    (a) No issue  
+    (b) External fragmentation  
+    (c) Internal only  
+    (d) None
     
-- Convert into **PDF or quiz format**
+43. Logical address is visible to:  
+    (a) User program  
+    (b) Memory  
+    (c) Disk  
+    (d) Cache
     
-- Or make **previous year–style questions**
+44. Physical address is invisible to:  
+    (a) CPU  
+    (b) User  
+    (c) Memory  
+    (d) MMU
+    
+45. Address space includes:  
+    (a) Only RAM  
+    (b) Only cache  
+    (c) All addresses  
+    (d) Disk
     
 
-Just tell me 👍
+---
+
+46. Address translation is necessary for:  
+    (a) Protection  
+    (b) Isolation  
+    (c) Both  
+    (d) None
+    
+47. Virtual memory uses:  
+    (a) Physical address only  
+    (b) Logical address  
+    (c) Disk only  
+    (d) Cache
+    
+48. Address binding defines:  
+    (a) When mapping happens  
+    (b) Memory size  
+    (c) CPU speed  
+    (d) Disk
+    
+49. MMU performs:  
+    (a) Compilation  
+    (b) Translation  
+    (c) Execution  
+    (d) Storage
+    
+50. Address bus is:  
+    (a) Software  
+    (b) Hardware  
+    (c) Program  
+    (d) File
+    
+
+---
+
+51. Address range in 8-bit system:  
+    (a) 256  
+    (b) 128  
+    (c) 512  
+    (d) 64
+    
+52. Address range formula:  
+    (a) n²  
+    (b) 2ⁿ  
+    (c) n/2  
+    (d) n
+    
+53. Logical address space may be:  
+    (a) Smaller  
+    (b) Equal  
+    (c) Larger  
+    (d) None
+    
+54. Physical memory is:  
+    (a) Virtual  
+    (b) Real RAM  
+    (c) Disk  
+    (d) Cache
+    
+55. Execution-time binding uses:  
+    (a) Loader  
+    (b) MMU  
+    (c) Compiler  
+    (d) Disk
+    
+
+---
+
+56. Addressing technique improves:  
+    (a) Efficiency  
+    (b) Speed only  
+    (c) Storage only  
+    (d) None
+    
+57. Paging uses:  
+    (a) Segment table  
+    (b) Page table  
+    (c) File table  
+    (d) Cache
+    
+58. Segmentation uses:  
+    (a) Page table  
+    (b) Segment table  
+    (c) Disk table  
+    (d) None
+    
+59. Fragmentation wastes:  
+    (a) CPU  
+    (b) Memory  
+    (c) Disk  
+    (d) Cache
+    
+60. External fragmentation occurs in:  
+    (a) Paging  
+    (b) Segmentation  
+    (c) Both  
+    (d) None
+    
+
+---
+
+61. Internal fragmentation occurs in:  
+    (a) Paging  
+    (b) Segmentation  
+    (c) Both  
+    (d) None
+    
+62. Address translation improves:  
+    (a) Protection  
+    (b) Efficiency  
+    (c) Both  
+    (d) None
+    
+63. Logical address is:  
+    (a) Real  
+    (b) Virtual  
+    (c) Physical  
+    (d) None
+    
+64. Physical address is:  
+    (a) Virtual  
+    (b) Actual  
+    (c) Logical  
+    (d) None
+    
+65. Addressing supports:  
+    (a) Memory management  
+    (b) File system  
+    (c) CPU design  
+    (d) Input
+    
+
+---
+
+66. MMU is located between:  
+    (a) CPU & memory  
+    (b) Disk & RAM  
+    (c) CPU & disk  
+    (d) Cache & RAM
+    
+67. Address binding helps in:  
+    (a) Relocation  
+    (b) Execution  
+    (c) Both  
+    (d) None
+    
+68. Address error leads to:  
+    (a) Exception  
+    (b) Speed  
+    (c) Storage  
+    (d) None
+    
+69. Address bus carries:  
+    (a) Data  
+    (b) Address  
+    (c) Control  
+    (d) All
+    
+70. Address translation is required for:  
+    (a) Virtual memory  
+    (b) Disk  
+    (c) CPU  
+    (d) None
+    
+
+---
+
+71. Logical address is:  
+    (a) User-level  
+    (b) Hardware-level  
+    (c) Disk-level  
+    (d) None
+    
+72. Physical address is:  
+    (a) User-level  
+    (b) Hardware-level  
+    (c) Software-level  
+    (d) None
+    
+73. Addressing ensures:  
+    (a) Isolation  
+    (b) Protection  
+    (c) Both  
+    (d) None
+    
+74. Invalid address causes:  
+    (a) Trap  
+    (b) Output  
+    (c) Speed  
+    (d) None
+    
+75. Addressing techniques include:  
+    (a) Paging  
+    (b) Segmentation  
+    (c) Contiguous  
+    (d) All
+    
+
+---
+
+76. Address bus is unidirectional:  
+    (a) True  
+    (b) False
+    
+77. Addressing helps in:  
+    (a) Memory utilization  
+    (b) Disk use  
+    (c) Input  
+    (d) None
+    
+78. Address binding types are:  
+    (a) 2  
+    (b) 3  
+    (c) 4  
+    (d) 5
+    
+79. Logical address is converted to:  
+    (a) Virtual  
+    (b) Physical  
+    (c) Cache  
+    (d) Disk
+    
+80. Address translation occurs:  
+    (a) Always  
+    (b) Never  
+    (c) Sometimes  
+    (d) Rarely
+    
+
+---
+
+81. Paging removes:  
+    (a) External fragmentation  
+    (b) Internal fragmentation  
+    (c) Both  
+    (d) None
+    
+82. Segmentation is:  
+    (a) Fixed  
+    (b) Variable  
+    (c) None  
+    (d) Equal
+    
+83. Contiguous allocation is:  
+    (a) Continuous  
+    (b) Discrete  
+    (c) Random  
+    (d) None
+    
+84. Address space is per:  
+    (a) System  
+    (b) Process  
+    (c) Disk  
+    (d) CPU
+    
+85. Address binding is done:  
+    (a) Once  
+    (b) Multiple times  
+    (c) Never  
+    (d) None
+    
+
+---
+
+86. Addressing is part of:  
+    (a) OS  
+    (b) Compiler  
+    (c) Disk  
+    (d) Input
+    
+87. Address translation ensures:  
+    (a) Security  
+    (b) Protection  
+    (c) Both  
+    (d) None
+    
+88. Logical address is independent of:  
+    (a) Physical memory  
+    (b) CPU  
+    (c) OS  
+    (d) Program
+    
+89. Physical address depends on:  
+    (a) RAM  
+    (b) Disk  
+    (c) Cache  
+    (d) Input
+    
+90. Addressing errors affect:  
+    (a) Performance  
+    (b) Stability  
+    (c) Both  
+    (d) None
+    
+
+---
+
+91. Address binding allows:  
+    (a) Flexibility  
+    (b) Efficiency  
+    (c) Both  
+    (d) None
+    
+92. Address translation is:  
+    (a) Hardware process  
+    (b) Software process  
+    (c) Both  
+    (d) None
+    
+93. Address space can be:  
+    (a) Large  
+    (b) Small  
+    (c) Both  
+    (d) None
+    
+94. Address bus width is measured in:  
+    (a) Bytes  
+    (b) Bits  
+    (c) Words  
+    (d) KB
+    
+95. Address is used for:  
+    (a) Locate data  
+    (b) Store data  
+    (c) Delete data  
+    (d) None
+    
+
+---
+
+96. Addressing improves:  
+    (a) Execution  
+    (b) Memory use  
+    (c) Both  
+    (d) None
+    
+97. Address translation uses:  
+    (a) Tables  
+    (b) Registers  
+    (c) Both  
+    (d) None
+    
+98. Address error handling is done by:  
+    (a) OS  
+    (b) CPU  
+    (c) Both  
+    (d) None
+    
+99. Address binding occurs in:  
+    (a) Compile  
+    (b) Load  
+    (c) Execute  
+    (d) All
+    
+100. Addressing is essential for:  
+    (a) OS  
+    (b) Memory  
+    (c) Programs  
+    (d) All
+    
+
+---
+
