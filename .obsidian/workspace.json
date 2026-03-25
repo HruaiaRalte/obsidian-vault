@@ -25,14 +25,17 @@
             "id": "6574fdb6aa05da08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Register/Register all topic.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Register all topic"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 2"
             }
           },
           {
@@ -277,10 +280,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6574fdb6aa05da08",
+  "active": "311d7e120d4cfdde",
   "lastOpenFiles": [
-    "Logic Gates.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 2.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Register/Register all topic.md",
+    "Logic Gates.md",
     "Register/REGISTER.md",
     "Register/flip-flop.md",
     "Bits, Bytes, Words.md",
@@ -299,8 +307,6 @@
     "Pictures/100000000000047F00000600B2336A98AE984168.jpg.md",
     "calculating device.md",
     "Control unit.md",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
     "RAM.md",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png",
     "Architecture/CPU Leading Arichitecture.md",
@@ -308,14 +314,10 @@
     "Pictures/1000000000000600000004000F3D4584AE9A4B62.png.md",
     "Top-AI-Apps-Chatbots-That-Everybody-Is-Using-in-2025.jpg",
     "images (1).jpeg",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Bus.md",
     "fragmentation.md",
     "booting_process.md",
     "Pictures",
-    "how program execute.md",
-    "Untitled 2.md",
     "Register",
     "Architecture",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png"
