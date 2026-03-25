@@ -1,4 +1,4 @@
-# 
+# ![](virtual_address.jpg)
 
 An **address** in an operating system is a unique identifier used to specify a particular location in memory.
 
