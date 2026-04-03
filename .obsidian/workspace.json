@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address/Addressing Concepts.md",
+                "file": "Address/Address questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Addressing Concepts"
+              "title": "Address questions"
             }
           },
           {
@@ -265,17 +265,17 @@
   },
   "active": "6719029722d01ea3",
   "lastOpenFiles": [
+    "Address/Address Issues.md",
+    "Address/Address Definition.md",
+    "Address/Address Binding.md",
+    "Address/Addressing Concepts.md",
     "Address/Address.md",
     "Types of Address.md",
-    "Address/Address Binding.md",
-    "Address/Address Definition.md",
     "virtual_address.jpg",
     "Address/Address questions.md",
     "MCQ/questions.md",
     "MCQ",
-    "Address/Address Issues.md",
     "Address/Addressing Techniques.md",
-    "Address/Addressing Concepts.md",
     "Address/Address Translation.md",
     "AND Gate.md",
     "Address",
