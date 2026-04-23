@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address/Address Definition.md",
+                "file": "Types of Address.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Address Definition"
+              "title": "Types of Address"
             }
           },
           {
@@ -266,9 +266,9 @@
   "active": "6719029722d01ea3",
   "lastOpenFiles": [
     "Address/Address.md",
+    "Address/Address Definition.md",
     "AND Gate.md",
     "Address/Address Binding.md",
-    "Address/Address Definition.md",
     "Address/Address Issues.md",
     "Address/Address questions.md",
     "Address/Address Translation.md",
