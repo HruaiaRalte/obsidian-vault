@@ -8,8 +8,8 @@ The key registers shown are:
 
 - `PC` (Program Counter) — always points to the address of the _next_ instruction to execute
 - `IR` (Instruction Register) — holds the instruction currently being decoded
+- - `ACC` (Accumulator) — traditionally holds the result of arithmetic
 - `AX`, `BX` (General Purpose) — workhorses; hold data being actively processed
-- `ACC` (Accumulator) — traditionally holds the result of arithmetic
 - `MAR` (Memory Address Register) — holds the RAM address the CPU wants to read/write
 - `MDR` (Memory Data Register) — holds data moving to or from RAM
 
