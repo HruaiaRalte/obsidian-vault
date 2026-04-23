@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Register/Binary System.md",
+                "file": "Bits, Bytes, Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary System"
+              "title": "Bits, Bytes, Words"
             }
           }
         ]
