@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address/Addressing Techniques.md",
+                "file": "Architecture/CPU Leading Arichitecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Addressing Techniques"
+              "title": "CPU Leading Arichitecture"
             }
           }
         ]
@@ -212,12 +212,16 @@
   },
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
+    "Architecture/CPU architecture.md",
+    "Architecture/CPU Leading Arichitecture.md",
+    "Types of Address.md",
+    "Address/Address.md",
+    "Address/Address Definition.md",
+    "Address/Addressing Techniques.md",
     "Address/Addressing Concepts.md",
     "Address/Address Issues.md",
-    "Address/Address.md",
     "Address/Address Translation.md",
     "Address/Address Binding.md",
-    "Types of Address.md",
     "System Bus/Data bus.md",
     "System Bus/Control Bus.md",
     "System Bus/Address Bus.md",
@@ -228,8 +232,6 @@
     "ChatGPT Image Apr 23, 2026, 12_17_29 PM.png",
     "ChatGPT Image Apr 23, 2026, 12_16_41 PM.png",
     "Invalid Address.md",
-    "Address/Addressing Techniques.md",
-    "Address/Address Definition.md",
     "AND Gate.md",
     "Address/Address questions.md",
     "virtual_address.jpg",
@@ -246,7 +248,6 @@
     "Untitled 1.canvas",
     "Register/Register all topic.md",
     "Logic Gates.md",
-    "Register/REGISTER.md",
     "flipflop.jpeg",
     "Untitled 4.canvas",
     "CPU-registers.png",
