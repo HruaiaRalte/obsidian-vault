@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cache memory.md",
+                "file": "calculating device.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cache memory"
+              "title": "calculating device"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
+    "cache memory.md",
     "AND Gate.md",
     "MCQ/questions.md",
     "Architecture/CPU Leading Arichitecture.md",
@@ -243,7 +244,6 @@
     "ChatGPT Image Apr 23, 2026, 12_17_29 PM.png",
     "ChatGPT Image Apr 23, 2026, 12_16_41 PM.png",
     "Invalid Address.md",
-    "Address/Address questions.md",
     "virtual_address.jpg",
     "MCQ",
     "Address",
