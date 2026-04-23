@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address/Address Binding.md",
+                "file": "Address/Address.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Address Binding"
+              "title": "Address"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
+    "Address/Address Binding.md",
     "Address/Address.md",
     "Types of Address.md",
     "Address/Address Issues.md",
@@ -219,7 +220,6 @@
     "Address/Addressing Techniques.md",
     "Address/Addressing Concepts.md",
     "Address/Address Translation.md",
-    "Address/Address Binding.md",
     "Address/Address Definition.md",
     "AND Gate.md",
     "Address/Address questions.md",
