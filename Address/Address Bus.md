@@ -21,7 +21,7 @@ An **address bus** is a group of wires (or lines) in a computer system used to *
 
 If you want, I can also explain **data bus vs address bus vs control bus** in a simple table.
 
-is address bus a hardware
+
 
 Yes — the **address bus is hardware**.
 
