@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Bus/c.md",
+                "file": "System Bus/System Bus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c"
+              "title": "System Bus"
             }
           }
         ]
@@ -212,12 +212,12 @@
   },
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "System Bus/c.md",
-    "System Bus.md",
-    "System Bus/Address Bus.md",
-    "System Bus",
     "System Bus/Control Bus.md",
+    "System Bus/Data bus.md",
+    "System Bus/Address Bus.md",
+    "Untitled.canvas",
+    "System Bus/System Bus.md",
+    "System Bus",
     "Super Computers.md",
     "ChatGPT Image Apr 23, 2026, 12_17_29 PM.png",
     "ChatGPT Image Apr 23, 2026, 12_16_41 PM.png",
