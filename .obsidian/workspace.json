@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Register/flip-flop.md",
+                "file": "Register/REGISTER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flip-flop"
+              "title": "REGISTER"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
-    "Register/REGISTER.md",
     "Register/flip-flop.md",
+    "Register/REGISTER.md",
     "Register/Binary System.md",
     "MCQ/questions.md",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png",

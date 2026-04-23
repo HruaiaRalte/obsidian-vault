@@ -1,7 +1,13 @@
   
 Flip-flops and latches are **used as data storage elements to store a single bit (binary digit) of data**; one of its two states represents a one and the other represents a zero. Such data storage can be used for storage of state, and such a circuit is described as sequential logic in electronics.![](flipflop.jpeg)
+So flipflop is like a switch make ok 0 or 1 that store information and register are made of flip-flops
+### 2. 🔁 Flip-Flops
 
+Registers are **made of flip-flops!**
 
+- 1 flip-flop = 1 bit
+- 8 flip-flops = 1 register of 8 bits
+- Simple as LEGO bricks stacked together 🧱
 
 ## Registers — The Computer's Sticky Notes 📝
 
@@ -23,13 +29,7 @@ Speed:  Register > Cache > RAM > Hard Drive
 
 ---
 
-### 2. 🔁 Flip-Flops
 
-Registers are **made of flip-flops!**
-
-- 1 flip-flop = 1 bit
-- 8 flip-flops = 1 register of 8 bits
-- Simple as LEGO bricks stacked together 🧱
 
 ---
 
