@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control Bus.md",
+                "file": "Architecture/Address Bus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control Bus"
+              "title": "Address Bus"
             }
           }
         ]
@@ -210,11 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7386e8309b7cbf8",
+  "active": "311d7e120d4cfdde",
   "lastOpenFiles": [
     "System Bus.md",
+    "System Bus",
     "Control Bus.md",
-    "Address Bus.md",
+    "Architecture/Address Bus.md",
     "Super Computers.md",
     "ChatGPT Image Apr 23, 2026, 12_17_29 PM.png",
     "ChatGPT Image Apr 23, 2026, 12_16_41 PM.png",
@@ -246,7 +247,6 @@
     "Logic Gates.md",
     "Register/REGISTER.md",
     "Register/flip-flop.md",
-    "Bits, Bytes, Words.md",
     "flipflop.jpeg",
     "Untitled 4.canvas",
     "CPU-registers.png",
