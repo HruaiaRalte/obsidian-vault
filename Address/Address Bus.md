@@ -47,4 +47,4 @@ Think of it like a road system:
 - Address = **house location**
 - CPU = **person sending instructions**
 
-So yes, it’s very much a **physical part of the computer’s architecture**, even though we often talk about it in an abstract way.![](ChatGPT%20Image%20Apr%2023,%202026,%2012_16_41%20PM.png)
+So yes, it’s very much a **physical part of the computer’s architecture**, even though we often talk about it in an abstract way.![](ChatGPT%20Image%20Apr%2023,%202026,%2012_16_41%20PM.png)![](ChatGPT%20Image%20Apr%2023,%202026,%2012_17_29%20PM.png)
