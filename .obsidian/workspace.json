@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding.md",
+                "file": "computer laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coding"
+              "title": "computer laws"
             }
           }
         ]
@@ -212,6 +212,8 @@
   },
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
+    "compiler.md",
+    "coding.md",
     "ChatGPT Image Apr 23, 2026, 12_17_29 PM.png",
     "ChatGPT Image Apr 23, 2026, 12_16_41 PM.png",
     "Central Processing Unit.md",
@@ -240,7 +242,6 @@
     "Address/Address Binding.md",
     "System Bus/Data bus.md",
     "System Bus/Control Bus.md",
-    "System Bus/Address Bus.md",
     "Untitled.canvas",
     "System Bus",
     "virtual_address.jpg",
