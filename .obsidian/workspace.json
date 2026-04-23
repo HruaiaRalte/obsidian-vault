@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/CPU Leading Arichitecture.md",
+                "file": "cache memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU Leading Arichitecture"
+              "title": "cache memory"
             }
           }
         ]
@@ -212,6 +212,9 @@
   },
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
+    "AND Gate.md",
+    "MCQ/questions.md",
+    "Architecture/CPU Leading Arichitecture.md",
     "Architecture/CPU architecture.md",
     "Logic Gates.md",
     "Register/Register all topic.md",
@@ -220,10 +223,8 @@
     "Register/REGISTER.md",
     "Register/flip-flop.md",
     "Register/Binary System.md",
-    "MCQ/questions.md",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum.png",
-    "Architecture/CPU Leading Arichitecture.md",
     "Types of Address.md",
     "Address/Address.md",
     "Address/Address Definition.md",
@@ -242,7 +243,6 @@
     "ChatGPT Image Apr 23, 2026, 12_17_29 PM.png",
     "ChatGPT Image Apr 23, 2026, 12_16_41 PM.png",
     "Invalid Address.md",
-    "AND Gate.md",
     "Address/Address questions.md",
     "virtual_address.jpg",
     "MCQ",
