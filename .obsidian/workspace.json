@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address/Address Translation.md",
+                "file": "Address/Addressing Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Address Translation"
+              "title": "Addressing Concepts"
             }
           }
         ]
@@ -214,8 +214,8 @@
   "lastOpenFiles": [
     "Address/Address.md",
     "Address/Address Translation.md",
-    "Types of Address.md",
     "Address/Address Binding.md",
+    "Types of Address.md",
     "Address/Address Definition.md",
     "AND Gate.md",
     "Address/Address Issues.md",
