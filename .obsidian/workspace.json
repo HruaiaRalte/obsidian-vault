@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculating device.md",
+                "file": "Central Processing Unit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "calculating device"
+              "title": "Central Processing Unit"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
+    "calculating device.md",
     "cache memory.md",
     "AND Gate.md",
     "MCQ/questions.md",
@@ -243,7 +244,6 @@
     "Super Computers.md",
     "ChatGPT Image Apr 23, 2026, 12_17_29 PM.png",
     "ChatGPT Image Apr 23, 2026, 12_16_41 PM.png",
-    "Invalid Address.md",
     "virtual_address.jpg",
     "MCQ",
     "Address",
