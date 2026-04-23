@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Bus/Control Bus.md",
+                "file": "System Bus/Data bus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control Bus"
+              "title": "Data bus"
             }
           }
         ]
@@ -212,9 +212,9 @@
   },
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
+    "System Bus/Control Bus.md",
     "System Bus/System Bus.md",
     "System Bus/Address Bus.md",
-    "System Bus/Control Bus.md",
     "System Bus/Data bus.md",
     "Untitled.canvas",
     "System Bus",
