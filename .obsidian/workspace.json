@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address/Address.md",
+                "file": "Address/Address Bus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Address"
+              "title": "Address Bus"
             }
           }
         ]
@@ -210,16 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7386e8309b7cbf8",
+  "active": "311d7e120d4cfdde",
   "lastOpenFiles": [
-    "Address/Address Binding.md",
     "Address/Address.md",
+    "Address/Address Bus.md",
+    "Address/Addressing Concepts.md",
+    "Address/Address Translation.md",
+    "Address/Address Binding.md",
     "Types of Address.md",
     "Address/Address Issues.md",
     "Invalid Address.md",
     "Address/Addressing Techniques.md",
-    "Address/Addressing Concepts.md",
-    "Address/Address Translation.md",
     "Address/Address Definition.md",
     "AND Gate.md",
     "Address/Address questions.md",
@@ -246,7 +247,6 @@
     "Register/Binary System.md",
     "Untitled 4.canvas",
     "register tree.md",
-    "electronic circuit.md",
     "CPU-registers.png",
     "Architecture/http-upload-wikimedia-org-wikipedia-commons-thum 1.png",
     "Top-AI-Apps-Chatbots-That-Everybody-Is-Using-in-2025.jpg",
