@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address/Address Issues.md",
+                "file": "Types of Address.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Address Issues"
+              "title": "Types of Address"
             }
           }
         ]
@@ -213,13 +213,13 @@
   "active": "a7386e8309b7cbf8",
   "lastOpenFiles": [
     "Address/Address.md",
-    "Invalid Address.md",
+    "Types of Address.md",
     "Address/Address Issues.md",
+    "Invalid Address.md",
     "Address/Addressing Techniques.md",
     "Address/Addressing Concepts.md",
     "Address/Address Translation.md",
     "Address/Address Binding.md",
-    "Types of Address.md",
     "Address/Address Definition.md",
     "AND Gate.md",
     "Address/Address questions.md",
